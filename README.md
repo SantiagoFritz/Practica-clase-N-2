@@ -1,2 +1,2 @@
-# Practica-clase-N-2
-Este repositorio cuenta con extencion readme.md
+Edite el archivo md en VSCode
+
